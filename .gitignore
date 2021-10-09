@@ -1,0 +1,13 @@
+# Files/folders to exclude
+
+# SBT binaries
+target/
+
+# MacOS folder metadata file
+.DS_Store
+
+# IntelliJ IDEA metadata
+.idea/
+
+# IntelliJ SBT metadata
+.bsp/
